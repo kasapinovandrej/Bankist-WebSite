@@ -1,1 +1,1 @@
-# Bankist-WebSite
+# Bankist-WebSite - developed while learning JavaScript
